@@ -1,0 +1,10 @@
+export 'top_movies.dart';
+export 'casts.dart';
+export 'companies.dart';
+export 'genre_movies.dart';
+export 'genres.dart';
+export "genres_list.dart";
+export "now_playing.dart";
+export 'persons.dart';
+export 'similar_movies.dart';
+export 'movie_info.dart';
